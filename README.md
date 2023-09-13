@@ -11,7 +11,7 @@
 - [x] Autor
 - [x] GIF‘s
 ---
-<h1 align='center'>Calculo-COVID-19</h1>
+<h1 align='center'>Calculo do círculo, area e comprimento</h1>
 
 <p align='center'>Esse é um exemplo de lógica em javascript</p>
 <p align='justify'>Faça um programa que, a partir do raio de um círculo, calcula o comprimento (C) e a área (A) deste círculo.</p>
